@@ -1,10 +1,7 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+<img style="float: left;" src="./images/cover.png" width="600">
 
 # KEYID 
 Ironhack Madrid Data Bootcamp final project
-
-<img style="float: left;" src="./images/cover.png" width="300">
-
 
 ## Overview
 
@@ -16,7 +13,7 @@ It is intented o facilitate the compliance with the [new spanish law](https://ww
 
 ## Interface description
 
-<img style="float: left;" src="./images/screenshot_app.png" width="300">
+<img style="float: left;" src="./images/screenshot_app.png" width="600">
 
 This is the KeyID app interface, which allows for the following functionalities:
 - The employees may sign every time by clicking either arrival or departure, which leads the program to:
@@ -38,4 +35,4 @@ For KeyID to be built, these are the tools I used:
 - **mySQL** for the database
 - **TkInter** for the interactive interface
 
-<img style="float: left;" src="./images/process.png" width="300">
+<img style="float: left;" src="./images/process.png" width="600">
