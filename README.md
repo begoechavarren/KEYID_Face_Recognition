@@ -1,8 +1,5 @@
 <img style="float: left;" src="./images/cover.png" width="600">
 
-# KEYID 
-Ironhack Madrid Data Bootcamp final project
-
 ## Overview
 
 KeyID is a facial recognition system oriented to improve the sign-in-work process and registration. 
@@ -31,7 +28,7 @@ This is the KeyID app interface, which allows for the following functionalities:
 
 For KeyID to be built, these are the tools I used:
 - **OpenCV** to frame the faces and for image processing
-- **Keras** (Tensorflow) for the VGG-like convnet neural network
+- **Keras** (**Tensorflow**) for the VGG-like convnet neural network
 - **mySQL** for the database
 - **TkInter** for the interactive interface
 
