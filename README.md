@@ -6,7 +6,6 @@ KeyID is a facial recognition system oriented to improve the sign-in-work proces
 
 It is intented o facilitate the compliance with the [new spanish law](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3481) which compels all companies to register the the workdays of their employees. In addition, KeyID aims to improve other other registration systems such as card detection which can be easily bypassed, and therefore to provide an economic but reliable employee recognition system.
 
----
 
 ## Interface description
 
@@ -33,3 +32,8 @@ For KeyID to be built, these are the tools I used:
 - **TkInter** for the interactive interface
 
 <img style="float: left;" src="./images/process.png" width="600">
+
+### Next steps
+
+- Integrate a movement detection system (i.e. blinking motion) to avoid fraude by showing a picture to the camera
+- Apply online deep learning to my neural network to be able to train the model as the new data from the employees feeds the database and therefore not needing to train everynight with all data
