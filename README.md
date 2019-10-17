@@ -23,7 +23,7 @@ This is the KeyID app interface, which allows for the following functionalities:
     4. Reset MySQL database to a clean one.
 
 
-### Used tools
+## Used tools
 
 For KeyID to be built, these are the tools I used:
 - **OpenCV** to frame the faces and for image processing
@@ -33,7 +33,7 @@ For KeyID to be built, these are the tools I used:
 
 <img style="float: left;" src="./images/process.png" width="600">
 
-### Next steps
+## Next steps
 
 - Integrate a movement detection system (i.e. blinking motion) to avoid fraude by showing a picture to the camera
 - Apply online deep learning to my neural network to be able to train the model as the new data from the employees feeds the database and therefore not needing to train everynight with all data
